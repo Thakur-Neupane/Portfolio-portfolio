@@ -10,7 +10,7 @@ const Portfolio = () => {
   useEffect(() => {
     const getMyProjects = async () => {
       const { data } = await axios.get(
-        "https://mern-stack-portfolio-backend-code.onrender.com/api/v1/project/getall",
+        "https://portfolio-for-backend.onrender.com/api/v1/project/getall",
         { withCredentials: true }
       );
       setProjects(data.projects);

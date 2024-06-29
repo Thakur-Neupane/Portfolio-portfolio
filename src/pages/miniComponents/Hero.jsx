@@ -18,7 +18,7 @@ const Hero = () => {
   useEffect(() => {
     const getMyProfile = async () => {
       const { data } = await axios.get(
-        "https://mern-stack-portfolio-backend-code.onrender.com/api/v1/user/portfolio/me",
+        "https://portfolio-for-backend.onrender.com/api/v1/user/portfolio/me",
         { withCredentials: true }
       );
       setUser(data.user);
@@ -54,7 +54,7 @@ const Hero = () => {
         className="w-fit px-5 py-2 bg-slate-50 rounded-[20px] flex gap-5 
       items-center mt-4 md:mt-8 lg:mt-10"
       >
-        <Link to={"https://www.youtube.com/@CodeWithZeeshu"} target="_blank">
+        <Link to={"https://www.youtube.com/"} target="_blank">
           <Youtube className="text-red-500 w-7 h-7" />
         </Link>
         <Link to={user.instagramURL} target="_blank">

@@ -32,22 +32,25 @@ const About = () => {
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Zeeshan, but my followers call me Zeeshu. I will
-              graduate in Software Engineering from SMIU around 2024. I work as
-              a web developer and freelancer. My hobbies include watching
-              movies, series, playing video games, and occasionally cooking.
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam
+              magnam rerum voluptas amet impedit tempora repudiandae est
+              laudantium sapiente aut temporibus illo, ullam officia adipisci
+              placeat corporis veritatis deserunt minima quas non alias enim
+              debitis? Quos doloribus, ea temporibus qui dolor, iure esse culpa
+              accusantium, ad odio doloremque? Illum, laudantium?
             </p>
             <p>
-              I have interests not only in technology but also in movies,
-              series, video games, and cooking. I excel in meeting deadlines for
-              my work.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Repudiandae ex nobis, quas hic necessitatibus deleniti natus
+              dolorum inventore possimus illo doloribus eveniet velit temporibus
+              odio aut dolore. Itaque, aliquid provident.
             </p>
           </div>
         </div>
         <p className="tracking-[1px] text-xl">
-          My dedication and perseverance in timely delivery of work are integral
-          to me. I maintain the courage to face any challenges for extended
-          periods.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum
+          mollitia neque quis dolores quibusdam quo quam dolore veritatis eius
+          harum.
         </p>
       </div>
     </div>
